@@ -1,3 +1,3 @@
 <?php
-    echo "Sukses!";
+    echo "Sukses versi 2!";
 ?>
